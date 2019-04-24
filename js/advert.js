@@ -1,0 +1,1 @@
+window.issue = 1;

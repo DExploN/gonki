@@ -1,0 +1,1 @@
+<?class adminViewM extends view{	public $header="_site/layout/adminheader";	public $footer="_site/layout/adminfooter";	public $controller="_siteC";	public $method="adminlayout";}?>

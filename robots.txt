@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /admin$
+Disallow: /admin*$
+Disallow: *.swf$
+Host: gonki-games.ru
+Sitemap:  http://gonki-games.ru/sitemap.xml

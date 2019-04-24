@@ -1,0 +1,50 @@
+html,body{
+	margin:0px;
+	padding:0px;
+
+	font-size:14px;
+	background:#444;
+}
+body{
+
+	
+}
+.clear{
+	clear:both;
+}
+
+#container{
+	background:#ccc;
+	overflow:hidden;
+	
+	width:980px;
+	margin:0px auto;
+}
+#left{
+	width:210px;
+	float:left;
+	padding:10px;
+
+}
+#right{
+	margin-left:220px;
+	padding:10px;
+}
+.menu{
+	display:block;
+	margin:10px;
+	color:#000;
+}
+table{
+	border-collapse:collapse;
+}
+table td{
+	border-bottom:1px solid #000;
+}
+textarea{
+	width:550px;
+	height:45px;
+}
+input[type=submit]{
+	cursor:pointer;
+}
